@@ -156,6 +156,7 @@ body {
 }
 .images_1_of_4 img{
 	display: inline-block;
+	padding: 5% 0;
 }
 .images_1_of_4 h4 {
 	margin: 30px 0 15px;
@@ -173,7 +174,7 @@ body {
 }
 .images_1_of_4 h4 a:hover{
 	text-decoration:none;
-	color: #39b54a;
+	color: #000000;
 }
 .images_1_of_4  span{
 	width: 120px;
