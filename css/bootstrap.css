@@ -49,6 +49,18 @@ a:active,
 a:hover {
   outline: 0;
 }
+a.title{
+  color: #39b54a;
+  border: 4px solid #39b54a;
+  padding-left: 7px;
+  padding-right: 7px;
+  background-color: rgb(255, 255, 255);
+}
+a.title:hover{
+  color: #ffffff;
+  background-color: rgb(0, 0, 0);
+  border: 4px solid #39b54a;
+}
 abbr[title] {
   border-bottom: 1px dotted;
 }
