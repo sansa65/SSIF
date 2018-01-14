@@ -3,6 +3,8 @@ and import the file known as ssif_forum_db.sql into it.
 
 ssif_forum_db(final v1.0).sql Contains forum topics made.
 
+forum_db(final v1.0).sql Contains forum topics made.
+
 
 Forum Login details
 
