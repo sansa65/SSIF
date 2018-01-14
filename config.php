@@ -13,7 +13,7 @@ mysqli_select_db('$conn','forum_db'); */
 $connection = mysqli_connect('localhost','root','');
 
 // 2. Select a database to use 
-$db_select = mysqli_select_db($connection, 'forum_db');
+$db_select = mysqli_select_db($connection, 'ssif_forum_db');
 
 //Username of the Administrator
 $admin='mafia17.1';

@@ -1,4 +1,4 @@
-/*****************************************************/
+
 /****General****/
 *
 {
@@ -7,7 +7,7 @@
 }
 body
 {
-	background:#19589d /*url('images/background.gif') center top no-repeat*/;
+	background:#ffffff;
 	padding-left:10%;
 	padding-right:10%;
 	font-family:Arial, Geneva, sans-serif;
