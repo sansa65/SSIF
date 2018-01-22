@@ -64,7 +64,7 @@ else
         	<a href="<?php echo $url_home; ?>"><img src="<?php echo $design; ?>/images/logo.png" alt="Forum" /></a>
 	    </div>
 <div class="message">You have successfully been logged.<br />
-<a href="<?php echo $url_home; ?>">Accueil</a></div>
+<a href="<?php echo $url_home; ?>">Home</a></div>
 <?php
 		}
 		else

@@ -33,52 +33,6 @@ body {
 	text-decoration: none;
 	font-family: 'texgyreadventorregular';
 }
-/* search */
-
-.h_search{
-	width: 30%;
-	position: relative;
-	margin-top: 2%;
-}
-.h_search form{
-	width: 100%;
-}
-.h_search form input[type="text"]{
-	font-family: 'open_sansregular';
-	padding: 10px 16px;
-	outline: none;
-	color: #c6c6c6;
-	font-size: 13px;
-	border: 1px solid rgb(236, 236, 236);
-	background: #FFFFFF;
-	width: 73.333%;
-	line-height: 22px;
-	position: relative;
-	-webkit-appearance: none;
-}
-.h_search form input[type="submit"]{
-	font-family: 'open_sansregular';
-	background: #3B3B3B;
-	color: #ffffff;
-	text-transform: uppercase;
-	font-size: 13px;
-	padding: 12px 20px;
-	border: none;
-	cursor: pointer;
-	width: 26.333%;
-	position: absolute;
-	line-height: 1.5em;
-	outline: none;
-	-webkit-transition: all 0.3s ease-in-out;
-	-moz-transition: all 0.3s ease-in-out;
-	-o-transition: all 0.3s ease-in-out;
-	transition: all 0.3s ease-in-out;
-	-webkit-appearance: none;
-}
-.h_search form input[type="submit"]:hover {
-	background: #FF5454;
-
-}
 
 /* menu */
 .h_menu{
